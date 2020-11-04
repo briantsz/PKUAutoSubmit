@@ -1,6 +1,7 @@
 # PKUAutoSubmit (modified)
 
 **我做的改动**
+abaaba
 
 将Bruuuuuuce的备案历史截图功能添加在了YOUSIKI的程序中，并自己增加了将截图发送至个人邮箱的功能，即每天上午9:50和下午4:50会自动执行程序并发送报备截图至指定邮箱，目前稳定率惊人地高。<br>
 使用方法：先看下面的[使用文档](https://haysc.tech/2020/10/17/pku-auto-beian/)，在完成注册账号以后，回到[antonioo-c/PKUAutoSubmit](https://github.com/antonioo-c/PKUAutoSubmit)，右上角fork之后，再接着参照文档中之后对于pku账号的设置指引，然后在main.py的第26行“收件人邮箱账号”那修改成自己平时使用的邮箱就完成了。<br>
